@@ -1002,7 +1002,7 @@ body {
 
 .modal-agreement-input:checked + .modal-agreement > .modal-checkbox{
     fill: var(--light-background-color);
-    background-color: var(--accent-pressed-state);
+    background-color: var(--accent-background-color);
     border: none;
 }
 
